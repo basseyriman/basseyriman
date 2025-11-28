@@ -1,12 +1,15 @@
-                                                                                            ## Hi there 👋 I'm Bassey Riman
-                                                                                            
-                                                                                            AI & Machine Learning Engineer 
+<h1 align="center">Hi there 👋 I'm Bassey Riman</h1>
 
-🔭 Currently Working On
+<p align="center">
+AI & Machine Learning Engineer
+</p>
+
+🔭 **Currently Working On**
 
 PursePro – SPA Monthly Budget App for tracking daily/monthly spending (React, TailwindCSS, Zustand, Recharts)
 
-🌱 Currently Learning
+
+🌱 **Currently Learning**
 
 Advanced Generative AI (GPT, GPT-Vision, Diffusion Models)
 
@@ -16,7 +19,8 @@ React + Tailwind for modern UI
 
 ML Deployment (FastAPI, TensorFlow Serving, Firebase Hosting)
 
-💬 Ask Me About
+
+💬 **Ask Me About**
 
 Machine Learning & Deep Learning
 
@@ -26,7 +30,8 @@ Predictive Analytics & Data Engineering
 
 Building React or AI-powered apps
 
-🚀 Notable Projects
+
+🚀 **Notable Projects**
 
 AlzDetect - Alzheimer’s Detection System – 98% accuracy using ViT/CNN
 
@@ -36,7 +41,8 @@ PhotoCap – GPT Vision-powered photo caption generator
 
 PursePro – Modern React SPA for tracking daily and monthly spending with interactive charts, clean UI, and local data persistence.
 
-📫 How to Reach Me
+
+📫 **How to Reach Me**
 
 LinkedIn: https://www.linkedin.com/in/basseyriman/
 
