@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Bassey Riman
-
-AI & Machine Learning Engineer 
+                                                                                            ## Hi there 👋 I'm Bassey Riman
+                                                                                            
+                                                                                            AI & Machine Learning Engineer 
 
 🔭 Currently Working On
 
