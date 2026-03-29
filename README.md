@@ -1,86 +1,69 @@
-<h1 align="center">Hi there 👋 I'm Bassey Riman</h1>
+<h1 align="center">Bassey Riman | Strategic AI Leader & AI Engineer</h1>
 
 <p align="center">
-AI & Machine Learning Engineer
+  <strong>Bridging Research & Industry for Global Impact</strong><br>
+  Healthcare AI Researcher & AI Education Visionary | Featured in ThisDay, The Nation, Vanguard
 </p>
 
-🔭 **Currently Working On**
+<p align="center">
+  <a href="https://basseyriman.com">Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/basseyriman/">LinkedIn</a> • 
+  <a href="mailto:basseyriman@gmail.com">Email</a>
+</p>
 
-PursePro – SPA Monthly Budget App for tracking daily/monthly spending (React, TailwindCSS, Zustand, Recharts)
+---
 
+### 🏆 Featured In
+National recognition for pioneering contributions to AI research and education:
+- **[Vanguard](https://www.vanguardngr.com/2026/03/students-must-prepare-for-an-ai-driven-world-riman/)** — *"Students must prepare for an AI-driven world: AI education and future workforce insights"*
+- **[ThisDay](https://www.thisdaylive.com/2026/03/27/uk-based-ai-researcher-develops-vision-transformer-system-to-detect-early-alzheimers-from-brain-scans/)** — *"Vision Transformer system to detect early Alzheimer’s from brain scans"*
+- **[The Nation](https://thenationonlineng.net/uk-based-ai-researcher-develops-vision-transformer-system-to-detect-early-alzheimers-from-brain-scans/)** — *"AI research on Alzheimer's detection using Vision Transformers"*
 
-🌱 **Currently Learning**
+---
 
-Advanced Generative AI (GPT, GPT-Vision, Diffusion Models)
+### 🔬 Core Expertise & Global Impact
 
-Transformer Architectures for NLP & CV
+#### 🏥 Healthcare AI & Clinical Diagnostics
+- **Precision Diagnostics**: Architected a Vision Transformer (ViT) system for early-stage Alzheimer’s detection with **98% accuracy**.
+- **Explainable AI (XAI)**: Pioneered **Grad-CAM & SHAP** validation to build physician-level trust in automated clinical tools.
 
-React + Tailwind for modern UI
+#### 🎓 AI in Education & Workforce Readiness
+- **Education Strategy**: Advocating for AI-integrated curricula to prepare the next generation for an automated workforce (Featured in Vanguard).
+- **Adaptive Learning Systems**: Designing AI architectures that personalize educational pathways based on student data analytics.
 
-ML Deployment (FastAPI, TensorFlow Serving, Firebase Hosting)
+#### 🏗️ Industrial AI Leadership
+- **Intelligent Automation**: Leading large-scale AI deployments and autonomous systems for enterprise efficiency and smart facilities.
 
+---
 
-💬 **Ask Me About**
+### 🔭 Current Strategic Focus
+*   **Healthcare**: Scaling ViT architectures for multi-modal clinical diagnostic support.
+*   **Education**: Developing frameworks for ethical AI adoption in academic environments.
+*   **Innovation**: Bridging the gap between lab-stage AI research and production-grade industrial ROI.
 
-Machine Learning & Deep Learning
+---
 
-Computer Vision (OpenCV, CNNs, ViT)
+### 🚀 Highlighted Project: [AlzDetect](https://github.com/basseyriman/AlzDetect)
+**Vision Transformer (ViT) system for early-stage Alzheimer’s discovery.**
+- **Impact**: 98% Accuracy on clinical MRI datasets.
+- **Authority**: Formally recognized by national media for healthcare innovation.
+- **Tech Stack**: PyTorch, ViT-Base, Explanable AI (XAI) validation.
 
-Predictive Analytics & Data Engineering
+---
 
-Building React or AI-powered apps
-
-
-🚀 **Notable Projects**
-
-AlzDetect - Alzheimer’s Detection System – 98% accuracy using ViT/CNN
-
-Middlesbrough FC Player Analytics – SVM, XGBoost, Regression modelling
-
-PhotoCap – GPT Vision-powered photo caption generator
-
-PursePro – Modern React SPA for tracking daily and monthly spending with interactive charts, clean UI, and local data persistence.
-
-
-📫 **How to Reach Me**
-
-LinkedIn: https://www.linkedin.com/in/basseyriman/
-
-Email: basseyriman@gmail.com
-
-🌟 Quote I Live By
-
-“Stay consistent. Stay focused. The future will sort itself out.”
-
-### 🧰 Languages & Tools
+### 🧰 Strategic Technical Stack
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-F2C94C?style=for-the-badge&logo=ai&logoColor=black)
+![Medical Vision](https://img.shields.io/badge/Medical--Vision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XAI](https://img.shields.io/badge/Explainable--AI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3B4?style=for-the-badge&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-FF6F00?style=for-the-badge&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FEBA02?style=for-the-badge&logo=huggingface&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=google&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-F9AB00?style=for-the-badge&logo=googlecloud&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF5722?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud--AI-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Education AI](https://img.shields.io/badge/Education--AI-FF6F00?style=for-the-badge&logoColor=white)
+
+---
+
+### 🌐 Let's Connect
+- **Portfolio**: [basseyriman.com](https://basseyriman.com)
+- **LinkedIn**: [in/basseyriman](https://www.linkedin.com/in/basseyriman/)
+- **Email**: [basseyriman@gmail.com](mailto:basseyriman@gmail.com)
+
+> *"The future of AI is not just about computing power, but about its potential to heal healthcare systems and empower the global workforce."*
